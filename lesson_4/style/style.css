@@ -1,0 +1,34 @@
+body {
+    background-color: beige;
+}
+/* ----------------Загальні блоки------ */
+.company {
+    color: rgb(86, 175, 86);
+}
+.model,
+.link {
+    color: darkred;
+}
+[class*="-f"] {
+    color: rgb(23, 189, 142);
+}
+.footer-item * {
+    color: rgb(181, 30, 163);
+}
+/* ---------------header------------ */
+#apple-id {
+    font-size: 25px;
+}
+/* ---------------------Main--------------- */
+#company-id img {
+    width: 284px;
+}
+#phone-id img {
+    width: 625px;
+}
+.company-image img {
+    width: 1000px;
+}
+.content-blok-two > p {
+    color: rgb(195, 231, 123);
+}
